@@ -1,0 +1,1 @@
+To use this code in Visual Studio (VS code), download all files into one folder. Run the Gui.py, choose the folder with your videos in the top left and make sure you know where the output CSVs are saved
